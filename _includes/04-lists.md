@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+This is a list of my favourite singers and bands:
+- Bjork
+  - Pagan poetry
+  - Play Dead
+  - Bachelorrette
+- Massive Attack
+- Portishead
