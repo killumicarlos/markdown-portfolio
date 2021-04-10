@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a digital transformation programme manager. The key skills and knowledge areas required include *cyber security*, _accessibility_, **agile project management**, understanding _user needs and user stories_, and having a **big picture overview** of corporate and government strategy.
